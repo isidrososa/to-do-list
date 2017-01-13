@@ -10,5 +10,32 @@
     "Isidro Sosa <isosa@alephzero.mx>"
   ],
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "chalk": "^1.1.3",
+    "compression": "1.6.2",
+    "consolidate": "^0.14.1",
+    "cookie-parser": "^1.4.3",
+    "express": "4.14.0",
+    "express-session": "^1.14.2",
+    "morgan": "^1.7.0",
+    "nunjucks": "3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "babel-preset-es2015": "6.18.0",
+    "browser-sync": "~2.18.6",
+    "gulp-autoprefixer": "~3.1.0",
+    "gulp-babel": "6.1.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "~2.6.0",
+    "gulp-csso": "2.0.0",
+    "gulp-load-plugins": "~1.4.0",
+    "gulp-nodemon": "~2.2.1",
+    "gulp-sass": "~2.1.1",
+    "gulp-sourcemaps": "~2.0.0-alpha",
+    "gulp-util": "3.0.8",
+    "del": "^2.2.2"
+  }
 }
