@@ -1,0 +1,27 @@
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+node_modules
+jspm_packages
+
+### Application ###
+# Ignoring bower packages
+client/lib
+
+# Ignoring distribution files
+client/dist/app
+client/dist/css
+client/dist/fonts

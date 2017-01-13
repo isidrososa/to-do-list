@@ -1,0 +1,14 @@
+{
+  "name": "to-do-app",
+  "version": "0.0.1",
+  "description": "To Do List app with MEAN Stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp"
+  },
+  "contributors": [
+    "Isidro Sosa <isosa@alephzero.mx>"
+  ],
+  "private": true,
+  "license": "MIT"
+}

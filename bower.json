@@ -1,0 +1,17 @@
+{
+  "name": "to-do-app",
+  "description": "To Do List app with MEAN Stack",
+  "version": "0.0.1",
+  "authors": [
+    "Isidro Sosa <isosa@alephzero.mx>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
